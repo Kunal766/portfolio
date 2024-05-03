@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "description_header": "Hey",
+    "description": "Hey there! 👋 I'm Kunal Nayak, a dynamic full-stack developer with a passion for crafting stunning web experiences. With my expertise in React, Node.js, Express, PHP, Next.js, and AWS, coupled with a knack for integrating third-party APIs like Stripe, I bring ideas to life with finesse and functionality. 💻 Ready to elevate your web presence? Dive into my projects and let's turn your vision into reality! Reach out today for collaboration opportunities and let's build something extraordinary together! 🌟",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Full Stack MERN E-Commerce",
+      "startDate": "2023",
+      "description": "Developed a feature-rich e-commerce application using MERN stack technologies. Integrated Stripe payment gateway for secure online transactions. Implemented Jenkins for an automated CI/CD pipeline, ensuring efficient code deployment. Containerized the application using Docker for streamlined deployment. Utilized AWS EC2 for scalable and reliable hosting",
+      "images": [
+        "images/portfolio/E-commerce/image1.png",
+        "images/portfolio/E-commerce/image2.png",
+        "images/portfolio/E-commerce/image3.png",
+        "images/portfolio/E-commerce/image4.png",
+        "images/portfolio/E-commerce/image5.png",
+        "images/portfolio/E-commerce/image6.png",
+        "images/portfolio/E-commerce/image7.png"
+      ],
+      "url": "https://ecommerce.kunalnayak.xyz",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    },
+    {
+      "title": "GYM",
+      "startDate": "2022",
+      "description": "Designed and implemented an intuitive user interface for easy exercise discovery and selection.Leveraged ReactJS components to ensure a responsive and user-friendly design.Successfully integrated RapidAPI’s resources, enabling real-time access to exercise data.Deployed Successfully on Netlify.",
+      "images": [
+        "images/portfolio/Gym/image1.png",
+        "images/portfolio/Gym/image2.png",
+        "images/portfolio/Gym/image3.png",
+        "images/portfolio/Gym/image4.png",
+        "images/portfolio/Gym/image5.png"
+      ],
+      "url": "https://gym.kunalnayak.xyz",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Decentralized Voting System",
+      "startDate": "2023",
+      "description": "decentralized application for voting system with React client. Implemented voting contract using Solidity and deployed the contract to Ethereum Testnet using Truffle framework Integrated React app for voting Interface. Implemented Digital Signature Using SHA256 algorithm to sign the message of voter.",
+      "images": [
+        "images/portfolio/Voting/image1.png",
+        "images/portfolio/Voting/image2.png"
+      ],
+      "url": "https://voting.kunalnayak.xyz",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-solidity-plain",
+          "name": "Solidity"
+        }
+      ]
+    },
+    {
+      "title": "Classifymeister",
+      "startDate": "2023",
+      "description": "Implemented Logistic regression model to Classify the sentiment of a sentence Used Sentiment140 dataset with 1.6 million tweets for Training Data Integrated React Clint site for user interaction. Used FastApi to create API for the trained modal. Deployed Successfully on Github Pages and Hosted the API of modal on Render Cloud Services",
+      "images": [
+        "images/portfolio/Sentiment/image1.png",
+        "images/portfolio/Sentiment/image2.png"
+      ],
+      "url": "https://kunalnayak.xyz/SentimentFronted/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-fastapi-plain",
+          "name": "FastApi"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Anany Pahal Foundation",
+      "title": "Web Developer Internship",
+      "years": "May’23 - Jul’23 ",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Stripe",
+        "MDBootstrap",
+        "NodeJS",
+        "ExpressJs",
+        "React Icons",
+        "React Router"
+      ]
+    },
+    {
+      "company": "Algoleg",
+      "title": "FullStack Internship",
+      "years": "May’24 - Present ",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Stripe",
+        "MDBootstrap",
+        "NodeJS",
+        "ExpressJs",
+        "React Icons",
+        "React Router"
+      ]
+    }
+  ]
+}

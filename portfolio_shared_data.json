@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "name": "Kunal Nayak",
+    "titles": [
+      "Web Developer",
+      "Frontend Engineer",
+      "Backend lead"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Kunal766",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kunal-nayak-677a09224/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "upwork",
+        "url": "https://www.upwork.com/freelancers/~0157c3e481d553b542",
+        "class": "fa-brands fa-upwork"
+      }
+    ],
+    "image": "myProfile.jpeg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "ExpressJs",
+        "class": "devicon-express-original",
+        "level": "85"
+      },
+      {
+        "name": "PHP",
+        "class": "devicon-php-plain",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      }
+    ]
+  }
+}
